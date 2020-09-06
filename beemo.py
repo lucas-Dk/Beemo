@@ -216,7 +216,7 @@ while True:
 
                elif y %2 == 1:
 # Se tem ímpar ele adiciona na lista de ímpares
-                print('\033[1mO número\033[m \033[4m{}\033[m \033[1mé\033[m \033[31mÍmar\033[m.\n'.format(y))
+                print('\033[1mO número\033[m \033[4m{}\033[m \033[1mé\033[m \033[31mÍmpar\033[m.\n'.format(y))
                 impar.append(y)
 
              if y == num:

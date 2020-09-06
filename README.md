@@ -1,4 +1,4 @@
-# Beemo-att
+# Beemo
 Script matemático
 
 tenha no seu terminal
